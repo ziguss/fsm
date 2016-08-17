@@ -3,6 +3,8 @@ A PHP Finite State Machine Library
 
 It's miniature and independent but powerful enough.
 
+[![Build Status](https://travis-ci.org/ziguss/fsm.svg?branch=master)](https://travis-ci.org/ziguss/fsm)
+
 Getting started
 ---------------
 
@@ -110,7 +112,7 @@ class Task implements StatefulInterface
 
 ```
 
-### Using it.
+### Using it
 
 ```php
 $task = new Task();
