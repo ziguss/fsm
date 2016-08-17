@@ -3,7 +3,7 @@
 namespace ziguss\fsm;
 
 /**
- * @author yudoudou <yudoudou@baidu.com>
+ * @author ziguss <yudoujia@163.com>
  */
 class StateMachine
 {
